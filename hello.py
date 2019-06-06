@@ -1,2 +1,2 @@
-#this prints hello world
-print("goodbye world")
+# this prints something cool
+print ("Naomi rules")
